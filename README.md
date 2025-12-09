@@ -24,3 +24,6 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=andrewsaltanov_python-project-49)](https://sonarcloud.io/summary/new_code?id=andrewsaltanov_python-project-49)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=andrewsaltanov_python-project-49)
+
+Demo Game Brain-Even
+[![asciicast](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I.svg)](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I)
