@@ -30,3 +30,6 @@ Demo Game Brain-Even
 
 Demo Game Brain-Calc
 [![asciicast](https://asciinema.org/a/87oz2b2KWoaTWMsMM3MEuAjyj.svg)](https://asciinema.org/a/87oz2b2KWoaTWMsMM3MEuAjyj)
+
+Demo Game Brain-Gcd
+[![asciicast](https://asciinema.org/a/P8nPFRYHuK7oWPkDOt9WrS02m.svg)](https://asciinema.org/a/P8nPFRYHuK7oWPkDOt9WrS02m)
