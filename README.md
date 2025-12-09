@@ -27,3 +27,6 @@
 
 Demo Game Brain-Even
 [![asciicast](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I.svg)](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I)
+
+Demo Game Brain-Calc
+[![asciicast](https://asciinema.org/a/87oz2b2KWoaTWMsMM3MEuAjyj.svg)](https://asciinema.org/a/87oz2b2KWoaTWMsMM3MEuAjyj)
