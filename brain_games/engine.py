@@ -14,7 +14,10 @@ def start_game(description, generate_round):
         user_answer = prompt.string("Your answer: ").strip().lower()
 
         if user_answer != correct_answer:
-            print(f"'{user_answer}' is wrong answer."f" Correct answer was '{correct_answer}'.")
+            print(
+                f"'{user_answer}' is wrong answer ;(. "
+                f"Correct answer was '{correct_answer}'."
+            )
             print(f"Let's try again, {name}!")
             return
 

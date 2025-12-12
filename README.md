@@ -47,7 +47,7 @@ Any wrong answer ends the game and invites you to try again.
 
 ### Requirements
 
-`Python 3.8+`
+`Python 3.10+`
 
 `uv`
 
