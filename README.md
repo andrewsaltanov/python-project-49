@@ -60,7 +60,6 @@ Any wrong answer ends the game and invites you to try again.
 5. Install games as console commands `uv tool install --force dist/brain_games-*.whl`
 
 
-
 ## Demo Game Brain-Even
 
 [![asciicast](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I.svg)](https://asciinema.org/a/mT7FsTUBf2onaFdCP0xapQ24I)
