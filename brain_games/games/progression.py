@@ -13,13 +13,13 @@ def generate_progression(start, step, length=10):
 
 
 def generate_round():
-    length = random.randint(5, 10) # NOSONAR
-    start = random.randint(1, 10) # NOSONAR
-    step = random.randint(0, 20) # NOSONAR
+    length = random.randint(5, 10)  # NOSONAR
+    start = random.randint(1, 10)  # NOSONAR
+    step = random.randint(0, 20)  # NOSONAR
 
     progression = generate_progression(start, step, length)
 
-    hidden_index = random.randint(0, length - 1) # NOSONAR
+    hidden_index = random.randint(0, length - 1)  # NOSONAR
     correct_answer = str(progression[hidden_index])
 
     progression[hidden_index] = '..'

@@ -4,9 +4,9 @@ DESCRIPTION = 'What is the result of the expression?'
 
 
 def generate_round():
-    a = random.randint(1, 100) # NOSONAR
-    b = random.randint(1, 100) # NOSONAR
-    op = random.choice(['+', '-', '*']) # NOSONAR
+    a = random.randint(1, 100)  # NOSONAR
+    b = random.randint(1, 100)  # NOSONAR
+    op = random.choice(['+', '-', '*'])  # NOSONAR
 
     match op:
         case '+':
