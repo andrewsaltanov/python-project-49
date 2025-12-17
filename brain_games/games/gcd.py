@@ -10,8 +10,8 @@ def gcd(a, b):
 
 
 def generate_round():
-    max_gcd = random.randint(1, 100)
-    min_gcd = random.randint(1, 100)
+    max_gcd = random.randint(1, 100) # NOSONAR
+    min_gcd = random.randint(1, 100) # NOSONAR
     result = gcd(max_gcd, min_gcd)
     question = f"{max_gcd} {min_gcd}"
     correct_answer = str(result)
